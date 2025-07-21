@@ -1,1 +1,2 @@
 # ShipDockingStation-with-Ticket-System
+This project takes in information from a sample file containing the ship name, entry and exit times, and finally the amount of credits. The system adds the ships to a queue using linked lists once all parking spots are full. It then directs traffic as ships enter and exit. Finally, the system takes the time in and time out, and the amount of credits to see if the ship overstayed their visit. If so a ticket is printed.
